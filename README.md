@@ -25,7 +25,7 @@ Archivo adjunto: **LowFidelityWireframe.png**
 - Color 2: Gris Oscuro #1E293B  rgb(30,41,59)
 - Color 3: Azul  #0284C7  rgb(2,132,199)
 - Color 4: Naranja  #F9322C  rgb(249,50,44)
-- <span style="color: #F9322C">rgb(249,50,44)</span>
+- <span style="color: #F9322C;">rgb(249,50,44)</span>
 </br>
  
 #### https://jonny.me/
@@ -56,22 +56,26 @@ Link roto, el sitio web no existe ya.
  
 ### Twitter
 
-Permitir a los usuarios compartir sus opiniones con sus seguidores y el resto de la comunidad.</br>
+Permitir a los usuarios compartir sus opiniones con sus seguidores y el resto de la comunidad.
+</br>
 
 
 ### Youtube
 
-Proveer de un espacio para publicar videos y descubrir contenidos multimedia de interés para el usuario.</br>
+Proveer de un espacio para publicar videos y descubrir contenidos multimedia de interés para el usuario.
+</br>
 
  
 ### Facebook
 
-Conectar a usuarios entre sí para crear comunidades y compartir vivencias.</br>
+Conectar a usuarios entre sí para crear comunidades y compartir vivencias.
+</br>
 
  
 ### Google
 
-Organizar toda la información de la web y permitir a los usuarios localizar lo que buscan de la forma más rápida y eficiente posible.</br>
+Organizar toda la información de la web y permitir a los usuarios localizar lo que buscan de la forma más rápida y eficiente posible.
+</br>
 
  
 # PREGUNTAS TEÓRICAS
@@ -92,25 +96,29 @@ Organizar toda la información de la web y permitir a los usuarios localizar lo 
 
 ### ¿Cuál es un objetivo primordial?
 
-Un objetivo primordial es la función principal que debe cumplir una aplicación o sitio web y que debe centrar todas las acciones de esta. El resto de funciones deben reforzar y contribuir al desarrollo de este objetivo.</br>
+Un objetivo primordial es la función principal que debe cumplir una aplicación o sitio web y que debe centrar todas las acciones de esta. El resto de funciones deben reforzar y contribuir al desarrollo de este objetivo.
+</br>
 
 
 
 ### ¿Qué son los wireframes de baja fidelidad?
 
-Son representaciones esquemáticas de la interfaz de usuario que no deben centrarse en su diseño y apariencia sino en todos los elementos que deben  estar presentes para su correcto funcionamiento. Sirven para entender y poder explicar fácilmente la aplicación y asegurarse así de que todas las funciones están presentes en una fase temprana del desarrollo.</br>
+Son representaciones esquemáticas de la interfaz de usuario que no deben centrarse en su diseño y apariencia sino en todos los elementos que deben  estar presentes para su correcto funcionamiento. Sirven para entender y poder explicar fácilmente la aplicación y asegurarse así de que todas las funciones están presentes en una fase temprana del desarrollo.
+</br>
 
 
 
 ### ¿Qué es Git?
 
-Git es una tecnología usada para el control de versiones de software. Permite hacer un seguimiento de los cambios realizados en el código, pudiendo volver a estadios anteriores del desarrollo o tomar una copia del código para probar nuevas funciones experimentales que posteriormente pueden fusionarse con el código original. Aunque Git guarda las versiones de forma local, puede usarse una plataforma como Github para guardarlas de forma remota y poder colaborar y compartir el código con otros desarrolladores.</br>
+Git es una tecnología usada para el control de versiones de software. Permite hacer un seguimiento de los cambios realizados en el código, pudiendo volver a estadios anteriores del desarrollo o tomar una copia del código para probar nuevas funciones experimentales que posteriormente pueden fusionarse con el código original. Aunque Git guarda las versiones de forma local, puede usarse una plataforma como Github para guardarlas de forma remota y poder colaborar y compartir el código con otros desarrolladores.
+</br>
 
 
 
 ### ¿Qué es un sitemap?
 
-Es un diagrama que representa la navegación a través de un sitio web y refleja a simple vista cómo está estructurado este. Muestra cómo se conectan cada una de las principales acciones y las diferentes páginas que deben mostrarse.</br>
+Es un diagrama que representa la navegación a través de un sitio web y refleja a simple vista cómo está estructurado este. Muestra cómo se conectan cada una de las principales acciones y las diferentes páginas que deben mostrarse.
+</br>
 
 
 

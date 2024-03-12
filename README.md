@@ -1,41 +1,39 @@
 # EJERCICIO 1
  
 Archivos adjuntos: **flex.html** y **flex.css**
-</br>
-</br>
-</br>
+</br></br></br>
  
 # EJERCICIO 2
  
 ## Task One
 
 Archivo adjunto: **LowFidelityWireframe.png**
+- ![Low-Fidelity Wireframe](https://github.com/JohnHavenward/Devcamp_Checkpoint_02/blob/main/LowFidelityWireframe.png?raw=true)
 </br>
  
 ## Task Two
  
 #### https://timmyomahony.com/
  
-- Color 1: Blanco Roto #F0F0E8  rgb(240,240,232)
-- Color 2: Negro #000000  rgb(0,0,0)
-- Color 3: Gris Marrón #72645C  rgb(114,100,92)
+- ![rgb(240,240,232)](https://placehold.co/15x15/F0F0E8/F0F0E8.png) `rgb(240,240,232)`
+- ![rgb(0,0,0)](https://placehold.co/15x15/000000/000000.png) `rgb(0,0,0)`
+- ![rgb(114,100,92)](https://placehold.co/15x15/72645C/72645C.png) `rgb(114,100,92)`
 </br> 
  
 #### https://sebkay.com/
  
-- Color 1: Gris #64748B  rgb(100,116,139)
-- Color 2: Gris Oscuro #1E293B  rgb(30,41,59)
-- Color 3: Azul  #0284C7  rgb(2,132,199)
-- Color 4: Naranja  #F9322C  rgb(249,50,44)
-- ![#F9322C](https://placehold.co/15x15/F9322C/F9322C.png) `rgb(249,50,44)`
+- ![rgb(100,116,139)](https://placehold.co/15x15/64748B/64748B.png) `rgb(100,116,139)`
+- ![rgb(30,41,59)](https://placehold.co/15x15/1E293B/1E293B.png) `rgb(30,41,59)`
+- ![rgb(2,132,199)](https://placehold.co/15x15/0284C7/0284C7.png) `rgb(2,132,199)`
+- ![rgb(249,50,44)](https://placehold.co/15x15/F9322C/F9322C.png) `rgb(249,50,44)`
  
 #### https://jonny.me/
  
-- Color 1:  Gris  #24292F  rgb(36,41,47)
-- Color 1:  Gris oscuro  #0D1117  rgb(13,17,23)
-- Color 3:  Azul  #1F6FEB  rgb(31,111,235)
-- Color 4:  Naranja  #F78166  rgb(247,129,102)
-- Color 5:  Verde  #39D353  rgb(57,211,83)
+- ![rgb(36,41,47)](https://placehold.co/15x15/24292F/24292F.png) `rgb(36,41,47)`
+- ![rgb(13,17,23)](https://placehold.co/15x15/0D1117/0D1117.png) `rgb(13,17,23)`
+- ![rgb(31,111,235)](https://placehold.co/15x15/1F6FEB/1F6FEB.png) `rgb(31,111,235)`
+- ![rgb(247,129,102)](https://placehold.co/15x15/F78166/F78166.png) `rgb(247,129,102)`
+- ![rgb(57,211,83)](https://placehold.co/15x15/39D353/39D353.png) `rgb(57,211,83)`
 </br>
  
 #### https://jacekjeznach.com/

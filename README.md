@@ -1,7 +1,11 @@
 # EJERCICIO 1
  
-Archivos adjuntos: **flex.html** y **flex.css**
+**flex.html**
 https://github.com/JohnHavenward/Devcamp_Checkpoint_02/blob/main/flex.html
+</br>
+
+**flex.css**
+https://github.com/JohnHavenward/Devcamp_Checkpoint_02/blob/main/flex.css
 </br></br>
  
 # EJERCICIO 2
@@ -49,25 +53,25 @@ Link roto, el sitio web no existe ya.
  
 ## Task Four
  
-### Twitter
+#### Twitter
 
 Permitir a los usuarios compartir sus opiniones con sus seguidores y el resto de la comunidad.
-</br>
+</br></br>
 
 
-### Youtube
+#### Youtube
 
 Proveer de un espacio para publicar videos y descubrir contenidos multimedia de interés para el usuario.
-</br>
+</br></br>
 
  
-### Facebook
+#### Facebook
 
 Conectar a usuarios entre sí para crear comunidades y compartir vivencias.
-</br>
+</br></br>
 
  
-### Google
+#### Google
 
 Organizar toda la información de la web y permitir a los usuarios localizar lo que buscan de la forma más rápida y eficiente posible.
 </br></br>
@@ -114,8 +118,8 @@ Es un diagrama que representa la navegación a través de un sitio web y refleja
 
 ### Asigne un nombre a tres valores que se pueden utilizar con flex-direction, incluido el valor predeterminado que utiliza flexbox cuando se crea.
 
-- **row**   es el valor por defecto y distribuye los elementos uno junto al otro horizontalmente y formando una fila
+- **row** &nbsp; es el valor por defecto y distribuye los elementos uno junto al otro horizontalmente y formando una fila
 
-- **row-reverse**   invierte la dirección de la fila colocándo los primeros elementos al final y los últimos al comienzo
+- **row-reverse** &nbsp; invierte la dirección de la fila colocándo los primeros elementos al final y los últimos al comienzo
 
-- **column**   distribuye los elementos uno encima del otro en una dirección vertical formando una columna
+- **[ column ]** &nbsp; distribuye los elementos uno encima del otro en una dirección vertical formando una columna

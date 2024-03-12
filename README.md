@@ -25,8 +25,7 @@ Archivo adjunto: **LowFidelityWireframe.png**
 - Color 2: Gris Oscuro #1E293B  rgb(30,41,59)
 - Color 3: Azul  #0284C7  rgb(2,132,199)
 - Color 4: Naranja  #F9322C  rgb(249,50,44)
-- <span style="color: #F9322C;">rgb(249,50,44)</span>
-</br>
+- ![#1589F0](https://placehold.co/15x15/F9322C/F9322C.png) `rgb(249,50,44)`
  
 #### https://jonny.me/
  

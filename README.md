@@ -1,7 +1,7 @@
 # EJERCICIO 1
  
 Archivos adjuntos: **flex.html** y **flex.css**
-![Low-Fidelity Wireframe](https://github.com/JohnHavenward/Devcamp_Checkpoint_02/blob/main/flex.html?raw=true)
+https://github.com/JohnHavenward/Devcamp_Checkpoint_02/blob/main/flex.html
 </br></br>
  
 # EJERCICIO 2
@@ -78,13 +78,13 @@ Organizar toda la información de la web y permitir a los usuarios localizar lo 
 
 ### Cuatro valores que se pueden usar con la propiedad justify-content.
 
-- **center**   para colocar los elemntos centrados dejando el mismo espacio a ambos lados 
+- **center** &nbsp; para colocar los elemntos centrados dejando el mismo espacio a ambos lados 
 
-- **space-between**   para dejar el mismo espacio entre elementos y ninguno entre estos y los bordes
+- **space-between** &nbsp; para dejar el mismo espacio entre elementos y ninguno entre estos y los bordes
 
-- **space-evenly**   para dejar el mismo espacio entre elementos y entre estos y los bordes
+- **space-evenly** &nbsp; para dejar el mismo espacio entre elementos y entre estos y los bordes
 
-- **end**   para situar los elementos agrupados sin separación entre ellos y pegados al borde final
+- **end** &nbsp; para situar los elementos agrupados sin separación entre ellos y pegados al borde final
 </br></br>
 
 
